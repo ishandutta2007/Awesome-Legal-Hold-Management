@@ -101,7 +101,7 @@ If you found this resource helpful for your enterprise legal operations, litigat
 
 1. Fork the repository.
 2. Add or update entries in `README.md` following the tabular markdown format.
-3. Ensure open-source entries include valid GitHub links and star badges formatted as `[![Stars](https://img.shields.io/github/stars/USER/REPO?style=social&color=white)](https://github.com/USER/REPO/stargazers)`.
+3. Ensure open-source entries include valid GitHub links and Stars_Badges formatted as `[![Stars](https://img.shields.io/github/stars/USER/REPO?style=social&color=white)](https://github.com/USER/REPO/stargazers)`.
 4. Submit a Pull Request with a clear description of your additions.
 
 ---
